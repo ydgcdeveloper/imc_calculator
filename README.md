@@ -1,3 +1,3 @@
 # imc_calculator
 
-A new Flutter project.
+Imc calculator app for Flutter
